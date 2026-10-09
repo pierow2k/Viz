@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/bacbf405-d2e4-496c-b79e-fde000361962
 
 ## Requirements
 
-- MacOS 13.0+ (App uses some newer SwiftUI functions/modifiers which don't work on anything lower than 13.0)
+- macOS 14.0 or later.
 
 <!-- ## Getting Viz
 
